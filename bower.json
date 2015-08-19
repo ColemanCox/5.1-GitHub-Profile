@@ -1,0 +1,21 @@
+{
+  "name": "github-api-profile",
+  "version": "0.0.1",
+  "title": "github-api-profile",
+  "description": "github-api-profile",
+  "difficultyModes": [
+    "Normal",
+    "Hard",
+    "Nightmare"
+  ],
+  "keywords": [
+    "JavaScript"
+  ],
+  "dependencies": {
+    "reset-css": "~2.0.2011012602",
+    "fontawesome": "~4.3.0",
+    "neat": "~1.7.2",
+    "handlebars": "~3.0.3",
+    "jquery": "~2.1.4"
+  }
+}

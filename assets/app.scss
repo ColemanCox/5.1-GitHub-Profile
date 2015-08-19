@@ -1,0 +1,14 @@
+@import 'reset';
+@import 'font-awesome';
+@import 'bourbon';
+@import 'neat';
+
+
+
+
+html{
+    box-sizing: border-box;
+}
+   *,*:before, *:after {
+    box-sizing:inherit;
+}
