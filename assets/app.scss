@@ -7,8 +7,20 @@
 
 
 html{
+    margin-left: 5%;
     box-sizing: border-box;
 }
    *,*:before, *:after {
     box-sizing:inherit;
 }
+
+ img{
+    height:220px;
+    width:220px;
+}
+h2{
+    display:block;
+    font-size: 26px;
+    }
+
+
