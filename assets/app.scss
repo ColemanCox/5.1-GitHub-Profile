@@ -17,10 +17,26 @@ html{
  img{
     height:220px;
     width:220px;
+    margin-top:3%;
+}
+.header{
+    border:1px solid gray;
+    margin-left:-10%;
+    width:120%;
+    background-color: #F1EDED;
+    height:40px;
 }
 h2{
     display:block;
     font-size: 26px;
     }
+
+.zeroes, .zeroesToo{
+    font-size:30px;
+    color:blue;
+    font-weight:heavy;
+    display: inline-block;
+    }
+
 
 
